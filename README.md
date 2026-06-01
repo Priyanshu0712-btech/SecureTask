@@ -183,6 +183,14 @@ npm run dev
 
 ---
 
+## API Documentation
+
+Postman Collection is available in the repository:
+
+SecureTask.postman_collection.json
+
+Import the collection into Postman to test all APIs.
+
 ## Scalability Notes
 
 This application can be scaled using:
